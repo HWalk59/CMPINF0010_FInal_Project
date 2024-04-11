@@ -1,4 +1,4 @@
-# CMPINF0010_FInal_Project
+# CMPINF0010 FInal Project
 
 Team name: Group 9
 
