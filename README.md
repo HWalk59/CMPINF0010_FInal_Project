@@ -3,8 +3,11 @@
 Team name: Group 9
 
 Team members and their email addresses: 
-Gavin Abramowitz: gma42@pitt.edu
+Gavin Abramowitz: gma42@pitt.edu  
+
 Hayden Walker: hdw9@pitt.edu
+
+
 
 Description and links to the datasets used:
 
